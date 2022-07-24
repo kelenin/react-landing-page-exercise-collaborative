@@ -7,7 +7,7 @@ import Footers from "./footer.jsx";
 //create your first component
 const Home = () => {
 	return (
-		<div className="container-fluid">
+		<div>
 			<header>
 				<Nabvar/>
 			</header>
